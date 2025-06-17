@@ -8,10 +8,7 @@ This repository is for community maintained instance manifests. Feel free to sen
 
 1. Select one of manifests (json files) from this repository.
 The URL of the file will be:
-`https://manifest.yattee.stream/<filename>.json`
-example:
-`https://manifest.yattee.stream/invidious-piped.json`
-
+`https://manifest.yattee.stream/invidious-modern.json`
 2. In Yattee, go to Locations. Insert URL in top field under "Locations Manifest".
 3. Tap "Reload manifest"
 4. Select country under "Public locations".
